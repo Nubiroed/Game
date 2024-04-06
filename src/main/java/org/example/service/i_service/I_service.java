@@ -1,2 +1,4 @@
-package org.example.service.i_service;public interface I_service {
+package org.example.service.i_service;
+
+public interface I_service {
 }
